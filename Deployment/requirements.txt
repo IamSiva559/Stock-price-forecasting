@@ -1,0 +1,10 @@
+numpy
+textblob
+flask
+pandas
+matplotlib
+scikit_learn
+yfinance
+streamlit
+statsmodels
+
